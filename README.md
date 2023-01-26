@@ -12,7 +12,6 @@ Developer FullStack using Java, .NET C#, Angular 2 with Typescript, Spring Boot 
  <br>
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lewisc99&theme=blue-green&hide_border=false)
----
-[![](https://visitcount.itsvg.in/api?id=lewisc99&icon=0&color=8)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
