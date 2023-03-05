@@ -1,5 +1,5 @@
 # 💫 About Me:
-Developer FullStack using Java, .NET C#, Angular 2 with Typescript, Spring Boot and Spring Cloud<br>
+Developer FullStack using Java, .NET C#, Angular 2 with Typescript, Jquery, Spring Boot and Spring Cloud, Experience Using Microservices and Docker<br>
 
 
 # 💻 Tech Stack:
