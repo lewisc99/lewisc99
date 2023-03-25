@@ -9,7 +9,11 @@ Developer FullStack using Java, .NET C#, Angular 2 with Typescript, Jquery, Spri
   <a href = "mailto:lewiscontato99@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luiz-carlos-b50693173/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-![HTML5](https://github-readme-streak-stats.herokuapp.com/?user=lewisc99&theme=blue-green&hide_border=false)
+
+### ⚙️ &nbsp; Git Analytics
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=lewisc99&theme=dark&show_icons=true" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lewisc99&theme=dark&layout=compact" width="410" /></p>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
